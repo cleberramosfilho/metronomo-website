@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.metronome {
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
